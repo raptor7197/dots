@@ -1,1 +1,3 @@
-### Dotfiles for my setup
+### Dotfiles for my setup                       
+
+## Free free to contribute
