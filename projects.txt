@@ -29,3 +29,17 @@ sudoku solved q quantum algorithms
 
 a search engine and if possible make it running on 1mb ram and also see of we can make it run on the least amount of ram possible 
 
+room based cat application (witk possible e2e ans destroying room capabilities)
+websockets and also privacy things and deploy it (?)
+
+Real time collaborative platform (figma clone from scratch and canvas or maybe an excali draw typa thing)
+
+Semantic search engive for a custom dataset (glorified RAG)
+
+Stock market similator(just front end animations nothign else)
+
+Code editor with a browser side by side where ADHD people and has auto scrolling technologies,
+name : codecafe to watch reels and also to read docs or something
+make it like a mini windo typa thing 
+
+
