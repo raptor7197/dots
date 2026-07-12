@@ -1,15 +1,15 @@
-# The Legendary Dotfiles of Krxsna
+# The Dotfiles of krxsna
 
-> *"In the beginning, there was chaos. Then I wrote some config files."* - probably someone important
+> *"In the beginning, there was chaos. Then I wrote some config files."* - definetely not me
 
-Welcome to my dotfiles repo, where I keep all the secret sauce that makes my Linux rice look spicier than a Carolina Reaper eating contest!
+Welcome to my dotfiles, where I keep all the my configs that help me spend less time to worry about unecessary things
 
 ## What even is this?
 
-This is my personal collection of dotfiles - you know, those hidden files that start with a dot that you pretend to understand but secretly Google every time you need to edit them. If you're here, you either:
+This is my personal collection of dotfiles - you know, those hidden files that start with a dot If you're here, you either:
 
 1. Stumbled upon this by accident (welcome, lost traveler!)
-2. Want to steal my config (go ahead, I'm flattered)
+2. Want to steal my config (don't blame me if your pc breaks)
 3. Are future me trying to remember what I did 3 months ago (hey buddy!)
 
 ## What's Inside?
@@ -26,8 +26,7 @@ This is my personal collection of dotfiles - you know, those hidden files that s
 
 ### Prerequesites
 
-Make sure you have these installed or dont, im not your mom:
-
+Make sure you have these installed 
 ```bash
 git
 bash
@@ -37,13 +36,13 @@ fastfetch/neofetch
 
 ### Akshual Installation Steps
 
-1. Clone this bad boy:
+1. Clone this baddd boi:
    ```bash
    git clone https://github.com/raptor7197/dots.git
    cd dots
    ```
 
-2. Backup your old configs (or live dangerously):
+2. Backup your old configs (L move):
    ```bash
    cp ~/.bashrc ~/.bashrc.backup
    ```
@@ -82,13 +81,11 @@ nrd       # npm run dev
 
 ## Contribushuns
 
-Feel free to contribute! Got a cool alias or better color scheme? Send a PR!
-
-Just remember: We dont care about typos here (its a feature not a bug)
+Feel free to contribute! Got a cool alias or better color scheme? shoot a PR!
 
 ## License
 
-Do whatever you want with this. MIT License or something idk im not a lawyer.
+Do whatever you want with this.
 
 ---
 
